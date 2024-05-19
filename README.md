@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cryolyst
+- 👋 Hi, I’m Connor!
 - 👀 I’m interested in Cybersecurity and software development but I also want to try game development.
 - 🌱 I’m currently learning Java mainly.
 - 😄 Pronouns: he/him
