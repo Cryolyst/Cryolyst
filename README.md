@@ -2,7 +2,7 @@
 - ⚡ Electrical & Computer Engineering student at UW
 - 🛠 Embedded systems, hardware-software integration  
 - 💻 Java, Arduino (C/C++), PCB design  
-- 😄 Pronouns: he/him
+- Pronouns: he/him
 - ⚡ Fun fact: I used to be a barista. I debug better after a good coffee
 
 <!---
