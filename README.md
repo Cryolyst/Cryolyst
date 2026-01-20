@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Connor!
-- 👀 I’m interested in Cybersecurity and software development but I also want to try game development.
-- 🌱 I’m currently learning Java mainly.
+- ⚡ Electrical & Computer Engineering student at UW
+- 🛠 Embedded systems, hardware-software integration  
+- 💻 Java, Arduino (C/C++), PCB design  
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I used to be a barista.
+- ⚡ Fun fact: I used to be a barista. I debug better after a good coffee
 
 <!---
 Cryolyst/Cryolyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
